@@ -1,0 +1,22 @@
+body {
+	font-family: "HelveticaNeue-Light", Helvetica, Arial;
+
+}
+#container {
+	width: 1000px;
+	border: 1px red dotted;
+	margin: auto;
+}
+
+.clearfloat {
+	overflow: auto;
+}
+
+#main-article {
+	float: left;
+	width: 570px;
+}
+
+#pic-container {
+	float: right;
+}
